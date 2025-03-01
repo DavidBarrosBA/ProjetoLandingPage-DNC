@@ -1,2 +1,2 @@
 # ProjetoLandingPage-DNC
-Projeto de landingpage feito com HTML, CSS e JS
+Projeto de landingpage do curso da DNC feito com HTML, CSS e JS
